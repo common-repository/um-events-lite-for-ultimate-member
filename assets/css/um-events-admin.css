@@ -1,0 +1,12 @@
+.um-event-form-field {
+    margin: 4px 10px;
+    background: #fafafa;
+    min-height: 50px;
+    padding: 10px;
+}
+.um-event-form-field label{
+	font-weight: bold;
+}
+.um-event-block{
+	display: block;
+}

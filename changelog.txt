@@ -1,0 +1,14 @@
+== 17/08/2015 Version: 1.0.2.1 ==
+Added changelog
+
+== 1.0.4 ==
+Fixed language file
+Fixed events order on profile
+Updated JS calendar
+Added compatibility with Ultimate Member - Navigation Menu
+Added additional attributes to shortcodes
+== 1.0.5 ==
+Fixed issue with Add Button
+Fixed issue with view modal
+Changed Calendar from Monthly.js to FullCalendar
+Updated licensing feature
